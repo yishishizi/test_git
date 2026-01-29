@@ -1,3 +1,7 @@
 {
-  "git.mergeEditor": true
+  "git.enableSmartCommit": true,
+  "git.confirmSync": true,
+  "git.autofetch": true,
+  "git.mergeEditor": true,  // 确保这个启用
+  "git.confirmEmptyCommits": false
 }
